@@ -1,6 +1,6 @@
 Jumpstart
 ---------
 	
-Just a quick way to get started
+Just a quick way to get started!
 	
 
