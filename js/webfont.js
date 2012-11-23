@@ -1,5 +1,5 @@
 WebFontConfig = {
-  google: { families: [ 'Tangerine', 'Cantarell' ] }
+  google: { families: [ 'Chivo', 'Sanchez' ] }
 };
 (function() {
   var wf = document.createElement('script');
