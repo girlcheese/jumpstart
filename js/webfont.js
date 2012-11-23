@@ -1,5 +1,5 @@
 WebFontConfig = {
-  google: { families: [ 'Chivo', 'Sanchez' ] }
+  google: { families: [ 'Chivo:400,900:latin', 'Sanchez:400,900:latin' ] }
 };
 (function() {
   var wf = document.createElement('script');
